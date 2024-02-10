@@ -2,6 +2,4 @@ i dont need this file
 
 i need add this to copybranch in github
 
-i created this line fron dev2 branch
-
 dev2 changes added line 4
